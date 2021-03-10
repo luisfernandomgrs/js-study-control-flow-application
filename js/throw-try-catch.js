@@ -1,3 +1,4 @@
+
 // throw -> Lançar...
 
 function sayMyName(name = "") {
